@@ -316,10 +316,10 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['Flat Rules', 'VGC Timer', 'Open Team Sheets'],
 	},
 	{
-		name: "[Gen 9 Champions] VGC 2026 Reg M-B (Bo3)",
+		name: "[Gen 9 Champions] VGC SEAL Reg M-B (Bo3)",
 		mod: 'champions',
 		gameType: 'doubles',
-		ruleset: ['Flat Rules', 'VGC Timer', 'Force Open Team Sheets', 'Best of = 3'],
+		ruleset: ['Flat Rules', 'Best of = 3'],
 	},
 	{
 		name: "[Gen 9 Champions] Custom Game",
