@@ -356,7 +356,6 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	filletaway: {
 		inherit: true,
-		isNonstandard: "Past",
 	},
 	firelash: {
 		inherit: true,
