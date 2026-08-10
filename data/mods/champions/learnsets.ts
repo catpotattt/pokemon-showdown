@@ -221,6 +221,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	beedrill: {
 		learnset: {
 			acrobatics: ["9M"],
+			wildcharge: ["9M"],
 			tailwind: ["9M"],
 			megahorn: ["9M"],
 			gunkshot: ["9M"],
