@@ -15362,6 +15362,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			batonpass: ["9M", "9E"],
 			waterspout: ["9M"],
+			filletaway: ["9M"],
 			chillingwater: ["9M"],
 			counter: ["9E"],
 			dracometeor: ["9M"],
